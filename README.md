@@ -1,3 +1,5 @@
+For MacOS terminal.  Homebrew is required.  Also use iTerm instead of the built in terminal.
+
 brew install romkatv/powerlevel10k/powerlevel10k
 
 echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
