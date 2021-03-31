@@ -1,6 +1,6 @@
 Must be using ZSH
 
-If not  -  chsh -s /bin/zsh
+If NOT: chsh -s /bin/zsh
 
 For MacOS terminal.  Homebrew is required.  Also use iTerm instead of the built in terminal.
 
