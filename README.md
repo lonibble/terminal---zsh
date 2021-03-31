@@ -1,3 +1,7 @@
+Must be using ZSH
+
+  chsh -s /bin/zsh
+
 For MacOS terminal.  Homebrew is required.  Also use iTerm instead of the built in terminal.
 
 brew install romkatv/powerlevel10k/powerlevel10k
